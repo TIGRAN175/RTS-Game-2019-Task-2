@@ -1,0 +1,10 @@
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\bin\Debug\RTS GAME 2019.exe.config
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\bin\Debug\RTS GAME 2019.exe
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\bin\Debug\RTS GAME 2019.pdb
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS GAME 2019.csprojAssemblyReference.cache
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS_GAME_2019.Form1.resources
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS_GAME_2019.Properties.Resources.resources
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS GAME 2019.csproj.GenerateResource.cache
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS GAME 2019.csproj.CoreCompileInputs.cache
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS GAME 2019.exe
+C:\Users\TiG\Pictures\rts GAME\RTS GAME 2019\RTS GAME 2019\obj\Debug\RTS GAME 2019.pdb
